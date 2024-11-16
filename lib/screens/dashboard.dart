@@ -22,7 +22,7 @@ class Dashboard extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.all(8.0),
               child: Image.asset(
-              'images/bb.png',
+              'images/logo.png',
               width: screenWidth,
               fit: BoxFit.cover
               ),
@@ -46,7 +46,7 @@ class Dashboard extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Icon(
-                          Icons.people,
+                          Icons.directions_car,
                           size: 40,
                           color: Colors.white,
                         ),

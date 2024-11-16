@@ -9,7 +9,6 @@ import 'package:projetopersistencia/screens/dashboard.dart';
 
 void main() {
   runApp(const MyApp());
-    //findAll().then((cars) => debugPrint(cars.toString()));
 }
 
 class MyApp extends StatelessWidget {
@@ -19,7 +18,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: CarsList(),
+      home: Dashboard(),
     );
   }
 
