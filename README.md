@@ -1,16 +1,20 @@
-# projetopersistencia
+# Projeto Final Programação de Dispositivos Móveis II
 
-A new Flutter project.
+Grupo:
+- Bruno Vinicius de Laia Silva
+- Marlon Vinicius de Souza
+- Pauliane Ester Silveira
 
-## Getting Started
+## Rodando o aplicativo
 
-This project is a starting point for a Flutter application.
+- Clonar o projeto
+- Abrir um terminal da pasta raiz
+- Rodar o comando para atualizar as dependências
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter pub get
+```
+- Abrir seu emulador de celular e depois rodar o comando no terminal
+```
+flutter run
+```
